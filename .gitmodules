@@ -1,0 +1,3 @@
+[submodule "fpgaconvnet-optimiser"]
+	path = fpgaconvnet-optimiser
+	url = https://github.com/AlexMontgomerie/fpgaconvnet-optimiser
